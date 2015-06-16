@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Ettan"
+date:   2015-06-12 10:00:00
+categories: jekyll update
+---
+
+#Intro till vilka vi är
+
+* Github, tabellvyer in alerts
+* Res i Sthlm
+
+#WWDC2015
+
+* iOS9
+* WatchOS2
+* Swift2
+* Targeting
+* State of the Union
+
+#Watch
+
+* Berlinresan
+* Notification bonanza
+* Usecaset att tända lampan med klockan
+
+#Simon & Marcus i SF
+
+* Sommarstugan
+* Tuggummileveransen
+
+#Random
+
+* Bluetooth från Sverige?
+* Mac Pro
+* Vit färg är premium?
+* Svarta iMacs?
+* Svarta gamla Macbooken
+* Wrap med Wrapp
+* Retina
+
+#Design
+
+* Helvetica Neue vs San Francisco
